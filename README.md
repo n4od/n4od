@@ -12,7 +12,7 @@
 
 <a href="https://yegnadevelopers.com/"><img src="https://streak-stats.demolab.com?user=n4od&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=n4od&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="100%" alt="Activity Graph"/>
+<img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=n4od&theme=dark&stats=true" width="100%" alt="Isometric Contribution Graph"/>
 
 </div>
 
