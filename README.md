@@ -12,8 +12,11 @@
 
 <a href="https://yegnadevelopers.com/"><img src="https://streak-stats.demolab.com?user=n4od&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
+### Last 365 Days Activity
+
 <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=n4od&theme=dark&stats=true" width="100%" alt="Isometric Contribution Graph"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0f2027,70:203a43,100:2c5364&height=80&section=footer" width="100%"/>
 
 </div>
 
----
